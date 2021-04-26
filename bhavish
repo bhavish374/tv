@@ -276,7 +276,8 @@ http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4TurkMusic.fr" tvg-name="4 Turk Music" tvg-country="FR;TK" tvg-language="Turkish" tvg-logo="" group-title="Music",4 Turk Music
 http://51.210.199.30/hls/stream.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТНТ +4
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
 
 
 
@@ -840,7 +841,8 @@ http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetWoman.fr" tvg-name="AdultIPTV.net Woman" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="XXX",AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzA5MTEyMTFf/EighteenPlus_500x500.png" group-title="",ШЁПК ("SILK" | Russia) (18+)
+http://live-1.otcnet.ru/shelksd/tracks-v1a1/mono.m3u8
 
 
 
@@ -2028,18 +2030,15 @@ https://yviistreamer.kernel.online/hls/yviitv.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8?OTATV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ZAGROS TV (1280×720)
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/lHvoKdw.jpg" group-title="Music",Zapping Music HD
-https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ZEE ALWAN (1280×720)
-http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ZEE ALWAN (1280×720)
-http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Zee Mundo USA
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Zee TV
-http://193.46.210.28/stream/ehuh355pjb7ntywwfu35n2bc9u6bqhkbrk8ri6hj9iurwkdszgfixrvauv9z5bs4vsregp6kwghq886i6vwuu6t775adu582v9bespt4g4vbrcgt47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Zerouno TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/KrEBHLw.jpg" group-title="",ZO!34
@@ -2378,97 +2377,71 @@ https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТВ-3
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТВ-Дом (Украина)
-http://78.26.128.21:8082/stream.flv?stream=133
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТВА Чернівці
-http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТВК 24
-http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТВЦ (Международный)
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Телевизия Враца
 https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Телестанция МИР (Новосибирск)
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Телплюс ТВ (Астрахань)
-http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Тивиком HD (+5)
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТИС ТВ
-http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТК Алмазный край
-https://stream.almaz-media.tv:8080/hls/576.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТК Одесса
 http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТКР (Рязань)
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТНТ +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Третий цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТРК АЛЕКС
 http://46.46.112.223/live/livestream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТРК Круг
-http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ТРК Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Туран ТВ
-https://sc.id-tv.kz/TuranTV_36_37.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Учалы ТВ
 http://live-uchalytv.cdnvideo.ru/uchalytv/uchalytv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Фан Спорт.
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ЧП Инфо
-http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Шансон ТВ
 http://uiptv.do.am/1ufc/602079679/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Шокирующее HD
-http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzA5MTEyMTFf/EighteenPlus_500x500.png" group-title="",ШЁПК ("SILK" | Russia) (18+)
-http://live-1.otcnet.ru/shelksd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Эхо ТВ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Ю (Элиста)
 http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Ювелирочка ТВ
-http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Югра ТВ
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Южная Волна HD
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Южная Волна ТВ
-http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Южная Волна ТВ (Одеса)
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ЯТБ
-http://46.175.163.130/live_yatb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",ІНФО
-http://109.68.40.67/life/magnolia_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Sport",البحرين الرياضية
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",الغد المشرق
-http://82.212.74.3:8000/live/hls/7512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",نوبل TV
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",半岛电视台
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png.pagespeed.ic_.2KNN9OHw1p.png" group-title="",澳大利亚天和电视
 http://www.rtvcdn.com.au:8082/TV0002.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",美国切达电视
 https://live.chdrstatic.com/cheddar/primary/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://gayotv.co.kr/image/logo.jpg" group-title="",가요TV
-http://gayotv.net:1935/live/gayotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg" group-title="",국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://dg.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/12/0df66e127a9d1c68d0d56dd7567a5b52943a71122c8fc5aecf792ff11fba3d93bb1cd98f1d1c9e2fd83a294d26e2d5f270b705711cc20b5bdaf39ed2188c5075.png" group-title="",대구 MBC(MBC Daegu)
-https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2018/12/6e1a8d912bd32dca479bbf74667f7caf0716dd4e358e61136cecb8ca29b5b99a46b47b1d42b4a487d582c6ad6132929ff20a4cb41b344da26694ca115f5ee90a.png" group-title="",대전MBC(MBC Daejeon)
-https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://ys.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/01/bbbcec12d40f91ed9d4609144a648583937ee510098fb91776a99b0c1f00e818ab090f049ebdf24b0d1b21efb7f103dea45fb0f88d2571bf1756759dfdc93fd9.png" group-title="",여수MBC(MBC Yeosu)
 https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://jeju.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/06/2a42c0e8f353c0d091bd145d7384670af46a6cdf647b0d0be45f76a8faccf7ad0b144cbb6fe11b0ff81bd830478e8e5e8dc43ec1ce76bfead41eac377fcfbdc0.png" group-title="",제주 MBC(MBC Jeju)
-https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://data1.chmbc.co.kr/2018/12/d0fba52ecd26cdc49a893b9af6d468561f88e70c58accae0c6e1718bd112efc69511ffd56f9c167d6e1b215c065f844f250b1fa6df470afb30abf5cdd0153016.png" group-title="",춘천MBC(MBC Chuncheon)
-https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://www.etv.go.kr/images/newimg/logo.png" group-title="",한국선거방송
-http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+
+
