@@ -1,4 +1,4 @@
- #EXTM3U
+ #EXTM3U x-tvg-url="https://techzyon.com/epg/plutotv_guide.xml" url-tvg="https://techzyon.com/epg/plutotv_guide.xml" refresh="3600"
 
 
  #EXTINF:-1 tvg-id="AFVTV.us" tvg-name="AFV TV" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="",Pluto TV AFV TV
