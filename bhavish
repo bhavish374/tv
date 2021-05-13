@@ -2496,8 +2496,7 @@ https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/in
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | People TV
 https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | VENN
-https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
+
 
 
 
@@ -2880,7 +2879,8 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AfterSchoolCartoons.us" tvg-name="After School Cartoons" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="",Pluto TV After School Cartoons
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | VENN
+https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
 
 
 
