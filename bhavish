@@ -2540,35 +2540,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Family
-http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Family [Asia Feed]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="",HBO Family [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Hits
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Hits [Asia Feed]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits [Asia Feed]" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="",HBO Hits [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png" group-title="",HBO PREMIUM
-https://s.vdo.ai/vhs/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature " tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Signature
-http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-country="" tvg-language="" tvg-logo="" group-title="",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+
+
 
 
 
