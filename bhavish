@@ -2499,8 +2499,7 @@ https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | VENN
 https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | WPT
-https://world-poker-tour.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f734a4a0a6064513436ac12_world-poker-tour/175.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | Zen
 https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
@@ -2629,6 +2628,12 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Humanity.uk" tvg-name="Humanity" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XZSCpl2.jpg" group-title="",Humanity
 https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-name="Pluto TV Animals" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="",Pluto TV Animals
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-name="Pluto TV Animals" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="",Pluto TV Animals
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-name="Horse and Country" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 
@@ -2677,14 +2682,12 @@ https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="",World Poker Tour
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | WPT
+https://world-poker-tour.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f734a4a0a6064513436ac12_world-poker-tour/175.m3u8
+
 #EXTINF:-1 tvg-id="AmericanGladiators.us" tvg-name="American Gladiators" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="",Pluto TV American Gladiators
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815e489b315b154db2e053/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-name="Pluto TV Animals" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="",Pluto TV Animals
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-name="Pluto TV Animals" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="",Pluto TV Animals
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 
