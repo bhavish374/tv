@@ -10951,82 +10951,89 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteriesSTIRR.us" tvg-name="Unsolved Mysteries (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5cf60259-ce44-452f-a8a1-cb33585ea701-small3x1_stirr_1219_epg_unsolvedmysteries_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="",Unsolved Mysteries (STIRR)
 https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
-#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sport",US SPORT Tennis Plus 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
 #EXTINF:-1 tvg-id="UtahSaltLakeCitySTIRR.us" tvg-name="Utah: Salt Lake City (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Utah: Salt Lake City (STIRR)
 https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
-#EXTINF:-1 tvg-id="VennTV.us" tvg-name="Venn TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MYHC666.png" group-title="",Venn TV
-https://venntv-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VEVO2KUS.us" tvg-name="VEVO 2K (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="Music",VEVO 2K (US)
-https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:-1 tvg-id="VEVOCountryUS.us" tvg-name="VEVO Country (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BFdWrhQ.jpg" group-title="Music",VEVO Country (US)
-https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
-#EXTINF:-1 tvg-id="VEVOHipHopUS.us" tvg-name="VEVO Hip Hop (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Music",VEVO Hip Hop (US)
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 tvg-id="VEVOLatinoUS.us" tvg-name="VEVO Latino (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",VEVO Latino (US)
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="VEVORBUS.us" tvg-name="VEVO R&B (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fJFzPB7.jpg" group-title="Music",VEVO R&B (US)
-https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
-#EXTINF:-1 tvg-id="VH1Italia.us" tvg-name="VH1 Italia" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="Music",VH1 Italia (1080p)
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
 #EXTINF:-1 tvg-id="VictoryTelevisionNetwork.us" tvg-name="Victory Television Network" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Religious",Victory Television Network (240p)
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VirginiaLynchburgRoanokeSTIRR.us" tvg-name="Virginia: Lynchburg - Roanoke (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Virginia: Lynchburg - Roanoke (STIRR)
 https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
+
 #EXTINF:-1 tvg-id="VirginiaNorfolkPortsmouthSTIRR.us" tvg-name="Virginia: Norfolk - Portsmouth (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Virginia: Norfolk - Portsmouth (STIRR)
 https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
+
 #EXTINF:-1 tvg-id="VirginiaTriCitiesSTIRR.us" tvg-name="Virginia: Tri-Cities (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Virginia: Tri-Cities (STIRR)
 https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
+
 #EXTINF:-1 tvg-id="VivaCristoTV.us" tvg-name="Viva Cristo TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vkDryWT.png" group-title="Religious",Viva Cristo TV (720p)
 http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VoAPersian.us" tvg-name="VoA Persian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VoA Persian (1080p)
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
 #EXTINF:-1 tvg-id="WABI5BangorMaineSTIRR.us" tvg-name="WABI 5 - Bangor - Maine (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D8uMAuV.png" group-title="Local",WABI 5 - Bangor - Maine (STIRR)
 https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwL (STIRR)CJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+
 #EXTINF:-1 tvg-id="WAGAFox5Atlanta.us" tvg-name="WAGA Fox 5 Atlanta" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",WAGA Fox 5 Atlanta (720p)
 https://lnc-waga-fox-aws.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Warner TV
-http://203.154.243.89:11205/
+
 #EXTINF:-1 tvg-id="WashingtonSeattleSTIRR.us" tvg-name="Washington: Seattle (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Washington: Seattle (STIRR)
 https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
+
 #EXTINF:-1 tvg-id="WashingtonYakimaPasco1STIRR.us" tvg-name="Washington: Yakima - Pasco #1 (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Washington: Yakima - Pasco #1 (STIRR)
 https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
+
 #EXTINF:-1 tvg-id="WashingtonYakimaPasco2STIRR.us" tvg-name="Washington: Yakima - Pasco #2 (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",Washington: Yakima - Pasco #2 (STIRR)
 https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
+
 #EXTINF:-1 tvg-id="Waypoint.us" tvg-name="Waypoint" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbVom3F.jpg" group-title="Hobby",Waypoint (720p)
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+
 #EXTINF:-1 tvg-id="WaypointOutdoors.us" tvg-name="Waypoint Outdoors" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/moVEMe0.png" group-title="",Waypoint Outdoors
 https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WCCATVWorcester.us" tvg-name="WCCA-TV (Worcester)" tvg-country="US" tvg-language="English" tvg-logo="https://worcester.vod.castus.tv/wccalive.png" group-title="Local",WCCA-TV (Worcester)
 https://worcester.vod.castus.tv/live/ch1.m3u8
+
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="Weather Channel" tvg-country="US" tvg-language="English" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="News",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="Weather Nation" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="News",Weather Nation
 https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Weather Nation" tvg-name="Weather Nation" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="",Weather Nation
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WeatherspyTV.us" tvg-name="Weatherspy TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NQABecK.png" group-title="",Weatherspy TV
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WestVirginiaCharlestonHuntingtonSTIRR.us" tvg-name="West Virginia: Charleston - Huntington (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="Local",West Virginia: Charleston - Huntington (STIRR)
 https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+
 #EXTINF:-1 tvg-id="WFLDFOX32Chicago.us" tvg-name="WFLD FOX 32 Chicago" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lf5sLNn.png" group-title="News",WFLD FOX 32 Chicago (720p)
 https://lnc-wfld-fox-aws.tubi.video/index.m3u8
+
 #EXTINF:-1 tvg-id="WFTVChannel9FloridaOrlando.us" tvg-name="WFTV Channel 9 - Florida - Orlando" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/S3fqmWY.png" group-title="Local",WFTV Channel 9 - Florida - Orlando
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+
 #EXTINF:-1 tvg-id="WHIO.us" tvg-name="WHIO" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/WHIO-TV_Logo.png/285px-WHIO-TV_Logo.png" group-title="Local",WHIO
 https://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="WhistleTV.us" tvg-name="Whistle TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="",Whistle TV
 https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WhistleTVSTIRR.us" tvg-name="Whistle TV (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2cbf9983-6f7c-49f0-8343-416f93d9e8ed-small3x1_STIRR_Logo_0320_WhistleTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="",Whistle TV (STIRR)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us" tvg-name="White Plains Community Media" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hhjrOB1.png" group-title="Local",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
@@ -11220,6 +11227,66 @@ https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WipeoutXtra.us" tvg-name="Wipeout Xtra" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="",Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sport",US SPORT Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports.uk" tvg-name="Eleven Sports" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sport",Eleven Sports
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FTF.uk" tvg-name="FTF" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="",FTF
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FTFForthefans.uk" tvg-name="FTF For the fans" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="",FTF For the fans
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MavTV.fr" tvg-name="Mav TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a2MgGmF.png" group-title="",Mav TV
+https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MavTV.ca" tvg-name="Mav TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/FrYwhaz.png" group-title="",Mav TV
+https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MavTV.uk" tvg-name="Mav TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/a2MgGmF.png" group-title="",Mav TV
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MotorSportTV.fr" tvg-name="MotorSport.TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cVCb02R.jpg" group-title="",MotorSport.TV
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MySurfTV.fr" tvg-name="My Surf TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="",My Surf TV
+https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-name="Alpe d’Huez TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-name="Sports Channel Network" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="",Sports Channel Network
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlayersTV.uk" tvg-name="Players TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="",Players TV
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MMATV.uk" tvg-name="MMA TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'Équipe" tvg-country="FR" tvg-language="French" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="",L'Équipe (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="Sport en France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="",Sport en France
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="",World Poker Tour
+https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | WPT
+https://world-poker-tour.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f734a4a0a6064513436ac12_world-poker-tour/175.m3u8
+
+#EXTINF:-1 tvg-id="AmericanGladiators.us" tvg-name="American Gladiators" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="",Pluto TV American Gladiators
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815e489b315b154db2e053/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
+
+
+
+
 
 
 
@@ -11341,7 +11408,23 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w10384273
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="",Yo! MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
+#EXTINF:-1 tvg-id="VEVO2KUS.us" tvg-name="VEVO 2K (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="Music",VEVO 2K (US)
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
 
+#EXTINF:-1 tvg-id="VEVOCountryUS.us" tvg-name="VEVO Country (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BFdWrhQ.jpg" group-title="Music",VEVO Country (US)
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VEVOHipHopUS.us" tvg-name="VEVO Hip Hop (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Music",VEVO Hip Hop (US)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VEVOLatinoUS.us" tvg-name="VEVO Latino (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",VEVO Latino (US)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VEVORBUS.us" tvg-name="VEVO R&B (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fJFzPB7.jpg" group-title="Music",VEVO R&B (US)
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+
+#EXTINF:-1 tvg-id="VH1Italia.us" tvg-name="VH1 Italia" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="Music",VH1 Italia (1080p)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
 Food
@@ -11392,7 +11475,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 
-
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
 
 
 
@@ -11459,7 +11543,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | VENN
 https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="VennTV.us" tvg-name="Venn TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MYHC666.png" group-title="",Venn TV
+https://venntv-samsungus.amagi.tv/playlist.m3u8
 
 
 
@@ -11538,56 +11623,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d
 #EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-name="Horse and Country" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports.uk" tvg-name="Eleven Sports" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sport",Eleven Sports
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FTF.uk" tvg-name="FTF" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="",FTF
-https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FTFForthefans.uk" tvg-name="FTF For the fans" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="",FTF For the fans
-https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MavTV.fr" tvg-name="Mav TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a2MgGmF.png" group-title="",Mav TV
-https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MavTV.ca" tvg-name="Mav TV" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/FrYwhaz.png" group-title="",Mav TV
-https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MavTV.uk" tvg-name="Mav TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/a2MgGmF.png" group-title="",Mav TV
-https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MotorSportTV.fr" tvg-name="MotorSport.TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cVCb02R.jpg" group-title="",MotorSport.TV
-https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MySurfTV.fr" tvg-name="My Surf TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="",My Surf TV
-https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-name="Alpe d’Huez TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV
-https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-name="Sports Channel Network" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="",Sports Channel Network
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlayersTV.uk" tvg-name="Players TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="",Players TV
-https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MMATV.uk" tvg-name="MMA TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'Équipe" tvg-country="FR" tvg-language="French" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="",L'Équipe (576p)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="Sport en France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="",Sport en France
-https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-name="World Poker Tour" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="",World Poker Tour
-https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | WPT
-https://world-poker-tour.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f734a4a0a6064513436ac12_world-poker-tour/175.m3u8
-
-#EXTINF:-1 tvg-id="AmericanGladiators.us" tvg-name="American Gladiators" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="",Pluto TV American Gladiators
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815e489b315b154db2e053/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Local Now | grvty
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
