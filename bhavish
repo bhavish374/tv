@@ -1,118 +1,160 @@
  #EXTM3U x-tvg-url="https://techzyon.com/epg/plutotv_guide.xml" url-tvg="https://techzyon.com/epg/plutotv_guide.xml" refresh="3600"
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" group-title="",FilmRise | Forensic Files
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8?p=roku
+ #EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV (1080p)
+ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="",FilmRise | Free Movies
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+ #EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
+ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_UnsolvedMys_900x900.png?raw=true" group-title="",FilmRise | Unsolved Mysteries
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku
+ #EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
+ https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg4OTc5MDZf/FilmStream_224x224.png" group-title="",FilmStream | HD
- https://spi-filmstream-1.plex.wurl.com/manifest/playlist.m3u8
+ #EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-name="Al Dafrah TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="General",Al Dafrah TV (1080p)
+ https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Gh3UlFo.jpg" group-title="Music",XTV Music HD
- https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
+ #EXTINF:-1 tvg-id="Al Emarat TV" tvg-name="Al Emarat TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="General",Al Emarat TV (1080p)
+ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="",Xumo Free Westerns
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
+ #EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Hadath TV (1080p)
+ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 123 NBC News Now
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Hadath TV (1080p)
+ https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 124 ABC News
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Sharqiya from Kalba" tvg-name="Sharqiya from Kalba" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="General",Al Sharqiya Min Kalba (1080p)
+ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 138 NewsMax
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-name="Al Wousta TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="General",Al Wousta TV (1080p)
+ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 142 TYT Network
- https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News",Al Yaum TV
+ https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 145 Black News Channel
- https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Citruss TV" tvg-name="Citruss TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="Shop",Citruss TV (720p)
+ https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 146 Cheddar Live
- https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="" group-title="General",Dubai One (720p)
+ https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 211 Comedy Dynamics
- https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
+ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 278 Circle
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-circle/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai Racing" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing (1080p)
+ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 280 Qello Concerts
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai Racing 2" tvg-name="Dubai Racing 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2 (1080p)
+ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 283 Stingray Karaoke
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai Racing 3" tvg-name="Dubai Racing 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 3 (1080p)
+ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 288 Latido Music
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1 (1080p)
+ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 321 People TV
- https://peopletvssai.akamaized.net/amagi_hls_data_peopletvA-peopletvxumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2 (1080p)
+ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 367 Bob Ross
- https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3 (1080p)
+ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 406 Tastemade
- https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Dubai TV" tvg-name="Dubai TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="General",Dubai TV (1080p)
+ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 412 So Yummy!
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV" tvg-name="Etisalat Dubai Zaman TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Classic",Dubai Zaman (576p)
+ https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 451 Naturescape
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="HawasTV.ae" tvg-name="Hawas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="General",Hawas TV
+ https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 455 QVC
- https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
+ #EXTINF:-1 tvg-id="MajidTV.ae" tvg-name="Majid TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV (1080p)
+ https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 457 HSN
- https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
+ #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC (1080p)
+ https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 461 JTV
- https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_1728/chunklist.m3u8
+ #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC (360p)
+ https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 463 Revry
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 (1080p)
+ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 469 ShopLC
- https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+ #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 (1080p)
+ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 710 PlayersTV
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 (1080p)
+ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 719 SportsGrid
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="General",MBC 4 (1080p)
+ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 721 Outside TV+
- https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="General",MBC 5 (1080p)
+ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 722 EDGEsport
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action (1080p)
+ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 728 InsightTV
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-insighttv/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="General",MBC Drama (1080p)
+ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 745 Stadium
- https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBCFM.ae" tvg-name="MBC FM" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="Music",MBC FM (1080p)
+ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 810 Stingray Hitlist
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="General",MBC Iraq (1080p)
+ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 811 S'Ray Greatest Hits
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC Egypt" tvg-name="MBC Egypt" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="General",MBC Masr 1 (1080p)
+ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 812 S'Ray Hot Country
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="MBC Masr 2" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="General",MBC Masr 2 (1080p)
+ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 813 S'Ray Classic Rock
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max (1080p)
+ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 814 Stingray Soul Storm
- https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
+ #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="General",MBC Persia (1080p)
+ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+ #EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Plus Drama (1080p)
+ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+ #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Hobby",National Geographic Abu Dhabi (1080p)
+ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="Noor Dubai" tvg-name="Noor Dubai" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="General",Noor Dubai (576p)
+ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+
+ #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-country="BD;IN" tvg-language="Bengali" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV Bangla
+ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV Chinese
+ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-name="Peace TV English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV English
+ http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-name="Peace TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV Urdu
+ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="Sama Dubai" tvg-name="Sama Dubai" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="General",Sama Dubai (1080p)
+ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+
+ #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Sharjah 2 (1080p)
+ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports TV (1080p)
+ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="Sharjah TV" tvg-name="Sharjah TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="Religious",Sharjah TV (1080p)
+ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="TowheedTV.ae" tvg-name="Towheed TV" tvg-country="AE;IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="Religious",Towheed TV
+ http://51.210.199.1/hls/stream.m3u8
+
+ #EXTINF:-1 tvg-id="Wanasah" tvg-name="Wanasah" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music",Wanasah (1080p)
+ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+ #EXTINF:-1 tvg-id="YasTV.ae" tvg-name="Yas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sport",Yas TV (1080p)
+ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
  #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-country="FR" tvg-language="" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="",TF1 (576p)
  http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8
@@ -583,161 +625,7 @@
  #EXTINF:-1 tvg-id="FashionTV.fr" tvg-name="Fashion TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="",Fashion TV
  https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 
- #EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV (1080p)
- https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
- #EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
- https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
- https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-
- #EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-name="Al Dafrah TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="General",Al Dafrah TV (1080p)
- https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
-
- #EXTINF:-1 tvg-id="Al Emarat TV" tvg-name="Al Emarat TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="General",Al Emarat TV (1080p)
- https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Hadath TV (1080p)
- https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Hadath TV (1080p)
- https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-
- #EXTINF:-1 tvg-id="Sharqiya from Kalba" tvg-name="Sharqiya from Kalba" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="General",Al Sharqiya Min Kalba (1080p)
- https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-name="Al Wousta TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="General",Al Wousta TV (1080p)
- https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News",Al Yaum TV
- https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Citruss TV" tvg-name="Citruss TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="Shop",Citruss TV (720p)
- https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-
- #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="" group-title="General",Dubai One (720p)
- https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
-
- #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
- https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai Racing" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing (1080p)
- https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Dubai Racing 2" tvg-name="Dubai Racing 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2 (1080p)
- https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Dubai Racing 3" tvg-name="Dubai Racing 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 3 (1080p)
- https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1 (1080p)
- https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-
- #EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2 (1080p)
- https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-
- #EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3 (1080p)
- https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
- #EXTINF:-1 tvg-id="Dubai TV" tvg-name="Dubai TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="General",Dubai TV (1080p)
- https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV" tvg-name="Etisalat Dubai Zaman TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Classic",Dubai Zaman (576p)
- https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="HawasTV.ae" tvg-name="Hawas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="General",Hawas TV
- https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
-
- #EXTINF:-1 tvg-id="MajidTV.ae" tvg-name="Majid TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Kids",Majid TV (1080p)
- https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC (1080p)
- https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC (360p)
- https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
-
- #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 (1080p)
- https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 (1080p)
- https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 (1080p)
- https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="General",MBC 4 (1080p)
- https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="General",MBC 5 (1080p)
- https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action (1080p)
- https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="General",MBC Drama (1080p)
- https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-
- #EXTINF:-1 tvg-id="MBCFM.ae" tvg-name="MBC FM" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="Music",MBC FM (1080p)
- https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="General",MBC Iraq (1080p)
- https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC Egypt" tvg-name="MBC Egypt" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="General",MBC Masr 1 (1080p)
- https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="MBC Masr 2" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="General",MBC Masr 2 (1080p)
- https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max (1080p)
- https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-
- #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="General",MBC Persia (1080p)
- https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
- #EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Plus Drama (1080p)
- https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
- #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Hobby",National Geographic Abu Dhabi (1080p)
- https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Noor Dubai" tvg-name="Noor Dubai" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="General",Noor Dubai (576p)
- https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-
- #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-country="BD;IN" tvg-language="Bengali" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV Bangla
- https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-
- #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV Chinese
- https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8
-
- #EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-name="Peace TV English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV English
- http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-
- #EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-name="Peace TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ibUfEGr.png" group-title="Religious",Peace TV Urdu
- https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Sama Dubai" tvg-name="Sama Dubai" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="General",Sama Dubai (1080p)
- https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
-
- #EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Religious",Sharjah 2 (1080p)
- https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sports TV (1080p)
- https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="Sharjah TV" tvg-name="Sharjah TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="Religious",Sharjah TV (1080p)
- https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-
- #EXTINF:-1 tvg-id="TowheedTV.ae" tvg-name="Towheed TV" tvg-country="AE;IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="Religious",Towheed TV
- http://51.210.199.1/hls/stream.m3u8
-
- #EXTINF:-1 tvg-id="Wanasah" tvg-name="Wanasah" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music",Wanasah (1080p)
- https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
- #EXTINF:-1 tvg-id="YasTV.ae" tvg-name="Yas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sport",Yas TV (1080p)
- https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
  #EXTINF:-1 tvg-id="Afrobeats247.uk" tvg-name="Afrobeats 247" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="",Afrobeats 247
  https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
@@ -10106,6 +9994,18 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 Shop
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shop",Xumo | 455 QVC
+https://lsqvc1usott-lh.akamaihd.net/i/lsqvc1usott_01@838836/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shop",Xumo | 457 HSN
+https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shop",Xumo | 461 JTV
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_1728/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Shop",Xumo | 469 ShopLC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+
 
 
 News
@@ -10254,17 +10154,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b05ea
 #EXTINF:-1 tvg-id="CBSNPittsburgh.us" tvg-name="CBSN Pittsburgh" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="",Pluto TV CBSN Pittsburgh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="News",Xumo | 123 NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="News",Xumo | 124 ABC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="News",Xumo | 138 NewsMax
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="News",Xumo | 142 TYT Network
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="News",Xumo | 145 Black News Channel
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="News",Xumo | 146 Cheddar Live
+https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 
 
 
@@ -10413,13 +10319,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be
 #EXTINF:-1 tvg-id="GLORYKickboxing.us" tvg-name="GLORY Kickboxing" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="",Pluto TV GLORY Kickboxing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sport",Xumo | 710 PlayersTV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sport",Xumo | 719 SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sport",Xumo | 722 EDGEsport
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Sport",Xumo | 745 Stadium
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 
 
@@ -10517,9 +10427,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3
 #EXTINF:-1 tvg-id="PlutoTVFashionbox.us" tvg-name="Pluto TV Fashionbox" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="",Pluto TV Fashionbox
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 321 People TV
+https://peopletvssai.akamaized.net/amagi_hls_data_peopletvA-peopletvxumo/CDN/master.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 463 Revry
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
 
 
 
@@ -10672,13 +10584,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a37
 #EXTINF:-1 tvg-id="CMTEqualPlay.us" tvg-name="CMT Equal Play" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="",Pluto TV CMT Equal Play
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 280 Qello Concerts
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 283 Stingray Karaoke
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 288 Latido Music
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 810 Stingray Hitlist
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 811 S'Ray Greatest Hits
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 812 S'Ray Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 813 S'Ray Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Xumo | 814 Stingray Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
 
 
 Food
@@ -10731,9 +10659,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c47f36
 #EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hell's Kitchen" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="",Pluto TV Hell's Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Food",Xumo | 406 Tastemade
+https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Food",Xumo | 412 So Yummy!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 
 
 
@@ -10913,11 +10843,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" group-title="",FilmRise | FilmRise Westerns
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8?p=roku
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="",FilmRise | Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjg4OTc5MDZf/FilmStream_224x224.png" group-title="",FilmStream | HD
+https://spi-filmstream-1.plex.wurl.com/manifest/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="",Xumo Free Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
 
 
 
@@ -11307,6 +11240,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa
 #EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-name="Pluto TV History" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="",Pluto TV History
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" group-title="",FilmRise | Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8?p=roku
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_UnsolvedMys_900x900.png?raw=true" group-title="",FilmRise | Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 278 Circle
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-circle/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 721 Outside TV+
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="",Xumo | 728 InsightTV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-insighttv/CDN/master.m3u8
+
+
+
 
 Game Show
 
@@ -11323,7 +11273,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54187aa
 
 
 
+Nature
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Nature",Xumo | 451 Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
 
 
 
