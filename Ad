@@ -95,3 +95,6 @@ http://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzA5MTEyMTFf/EighteenPlus_500x500.png" group-title="",ШЁПК ("SILK" | Russia) (18+)
 http://live-1.otcnet.ru/shelksd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzA5MTEyMTFf/EighteenPlus_500x500.png" group-title="",ШЁПk
+http://185.21.216.156:8554/nine/mix/discoveryshed/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDk6MTM6MTAgUE0maGFzaF92YWx1ZT1aUGlXbVNkcnFKYzlvVWV3REpzVHdRPT0mdmFsaWRtaW51dGVzPTI=
