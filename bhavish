@@ -1,5 +1,113 @@
  #EXTM3U x-tvg-url="https://techzyon.com/epg/plutotv_guide.xml" url-tvg="https://techzyon.com/epg/plutotv_guide.xml" refresh="3600"
 
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="",Cinedigm | Bambu
+ https://bambu-junctionus.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-junction/CDN/playlist.m3u8?webstream
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE5MzNf/BloodyDisgustingTV_900x900.png" group-title="",Cinedigm | Bloody Disgusting TV
+ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="",Cinedigm | Bob Ross
+ https://cinedigm-bobross-1.plex.wurl.com/master.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ComedyDynamics_640x640.png?raw=true" group-title="",Cinedigm | Comedy Dynamics
+ https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTVAnime_302x302.png?raw=true" group-title="",Cinedigm | CONtv Anime
+ https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTV_NEW_640x640.png?raw=true" group-title="",Cinedigm | CONtv Channel
+ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8?webstream
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png" group-title="",Cinedigm | Docurama
+ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8?webstream
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="",Cinedigm | Dove Channel
+ https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="",Cinedigm | Lone Star
+ https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?Cinedigm
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="",Cinedigm | My Time Movies
+ https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="",Cinedigm | So... Real
+ https://cinedigm-so-real-1.plex.wurl.com/manifest/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="",Cinedigm | Whistle TV
+ https://whistle-1.plex.wurl.com/manifest/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="Cinemax " tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax
+ http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="Cinemax [Indonesia]" tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax [Indonesia]
+ http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="",Cinemax
+ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="",Cinevault 80s (Coming Soon)
+ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ujmPyit.jpg" group-title="",CineVault Westerns
+ https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjE5OTZf/Cinevault-Westerns_v2_700x700.png" group-title="",Cinevault Westerns | HD
+ https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="",CINEVISION CANAL 19 HD
+ https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="",Circle | HD
+ https://circle-roku.amagi.tv/playlist.m3u8?OTA
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjY2MjYwMTlf/Circle_332x332.png" group-title="Entertainment",Circle | HD
+ https://circle-xumo.amagi.tv/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Citruss TV
+ https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CITY TV
+ https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png" group-title="",CityTV Toronto
+ https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="",Civilized
+ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" group-title="",CJB청주방송(SBS 淸州)
+ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/A1xZDrV.png" group-title="Documentary",Clarity 4K
+ https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Class CNBC
+ https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="ClassicArtsShowcase" tvg-name="Classic Arts Showcase" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2LJzdu6.png" group-title="",Classic Arts Showcase
+ https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="Classic Movies Channel" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="",Classic Movies Channel
+ https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
+ http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
+ http://stmv3.srvstm.com/classique/classique/playlist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://cmmusica.com.ar/images/logo.png" group-title="",CM MUSICA
+ http://g1.mc-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CMC TV
+ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CMC USA
+ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CMC_576x576.png?raw=true" group-title="",CMC | CMC Radio
+ https://streamingv2.shoutcast.com/CMC
+
  #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC (1080p)
  https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
  https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
@@ -4240,78 +4348,7 @@ https://magselect-stirr.amagi.tv/playlist720p.m3u8
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CINE5 TV
 http://win1.yayin.com.tr/cine5/cine5/iptvdelisi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="",Cinedigm | Bambu
-https://bambu-junctionus.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-junction/CDN/playlist.m3u8?webstream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE5MzNf/BloodyDisgustingTV_900x900.png" group-title="",Cinedigm | Bloody Disgusting TV
-https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="",Cinedigm | Bob Ross
-https://cinedigm-bobross-1.plex.wurl.com/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ComedyDynamics_640x640.png?raw=true" group-title="",Cinedigm | Comedy Dynamics
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTVAnime_302x302.png?raw=true" group-title="",Cinedigm | CONtv Anime
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTV_NEW_640x640.png?raw=true" group-title="",Cinedigm | CONtv Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8?webstream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png" group-title="",Cinedigm | Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8?webstream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="",Cinedigm | Dove Channel
-https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="",Cinedigm | Lone Star
-https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?Cinedigm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="",Cinedigm | My Time Movies
-https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="",Cinedigm | So... Real
-https://cinedigm-so-real-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="",Cinedigm | Whistle TV
-https://whistle-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax " tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax [Indonesia]" tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax [Indonesia]
-http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="",Cinevault 80s (Coming Soon)
-https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ujmPyit.jpg" group-title="",CineVault Westerns
-https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjE5OTZf/Cinevault-Westerns_v2_700x700.png" group-title="",Cinevault Westerns | HD
-https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="",CINEVISION CANAL 19 HD
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="",Circle | HD
-https://circle-roku.amagi.tv/playlist.m3u8?OTA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjY2MjYwMTlf/Circle_332x332.png" group-title="Entertainment",Circle | HD
-https://circle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Citruss TV
-https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CITY TV
-https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png" group-title="",CityTV Toronto
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="",Civilized
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" group-title="",CJB청주방송(SBS 淸州)
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/A1xZDrV.png" group-title="Documentary",Clarity 4K
-https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Class CNBC
-https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassicArtsShowcase" tvg-name="Classic Arts Showcase" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2LJzdu6.png" group-title="",Classic Arts Showcase
-https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classic Movies Channel" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="",Classic Movies Channel
-https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
-http://stmv3.srvstm.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://cmmusica.com.ar/images/logo.png" group-title="",CM MUSICA
-http://g1.mc-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CMC TV
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CMC USA
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CMC_576x576.png?raw=true" group-title="",CMC | CMC Radio
-https://streamingv2.shoutcast.com/CMC
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CMC_576x576.png?raw=true" group-title="",CMC | CMC-TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/6Fge4nq.png" group-title="",CMM Castilla La Mancha
