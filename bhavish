@@ -10766,7 +10766,6 @@ https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Series
 
 #EXTINF:-1 tvg-id="ZLiving.us" tvg-name="Z Living" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/c3Z5i2L.png" group-title="Classic",Z Living (720p)
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="",Pluto TV Baywatch
@@ -10788,17 +10787,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b2
 #EXTINF:-1 tvg-id="ClassicTVDrama.us" tvg-name="Classic TV Drama" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="",Pluto TV Classic TV Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG.png" group-title="",Pluto TV Degrassi
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c6eeb85c05dfc257e5a50c4/
-master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="PlutoTVDossiersFBI.us" tvg-name="Pluto TV Dossiers FBI" tvg-country="US" tvg-language="French" tvg-logo="" group-title="",Pluto TV Dossiers FBI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?architecture=mobile&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceVersion=7.1.2_25&appVersion=5.4.0&deviceType=android%2Csamsung%2Cmobile&deviceMake=samsung&sid=b90a2c1a-a2ce-4601-a02d-abe734775341&deviceDNT=0&deviceModel=SM-N976N&appName=androidmobile
 
 #EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-name="Pluto TV Comedy" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="",Pluto TV Comedy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="Comedy.us" tvg-name="Comedy" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e1efd0dbbe3ba000908b639/colorLogoPNG.png" group-title="",Pluto TV Comedy
+#EXTINF:-1 tvg-id="Comedy.us" tvg-name="Comedy" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e1efd0dbbe3ba000908b639/colorLogoPNG.png" group-title="",Pluto TV Comedy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1efd0dbbe3ba000908b639/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="PlutoTVComedie.us" tvg-name="Pluto TV Comédie" tvg-country="US" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="",Pluto TV Comédie
@@ -11330,3 +11325,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff4
 #EXTINF:-1 tvg-id="KidGamerTV.uk" tvg-name="Kid Gamer TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dSPmDU7.png" group-title="Cartoon",Kid Gamer TV
 
 #EXTINF:-1 tvg-id="BritCom.in" tvg-name="BritCom" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="series",BritCom (720p)
+
+#EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG.png" group-title="",Pluto TV Degrassi
