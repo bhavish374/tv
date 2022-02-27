@@ -1,19 +1,9 @@
- #EXTM3U x-tvg-url="https://techzyon.com/epg/plutotv_guide.xml" url-tvg="https://techzyon.com/epg/plutotv_guide.xml" refresh="3600"
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="",Cinedigm | Bambu
- https://bambu-junctionus.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-junction/CDN/playlist.m3u8?webstream
+
+
 
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE5MzNf/BloodyDisgustingTV_900x900.png" group-title="",Cinedigm | Bloody Disgusting TV
  https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="",Cinedigm | Bob Ross
- https://cinedigm-bobross-1.plex.wurl.com/master.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ComedyDynamics_640x640.png?raw=true" group-title="",Cinedigm | Comedy Dynamics
- https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTVAnime_302x302.png?raw=true" group-title="",Cinedigm | CONtv Anime
- https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream
 
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTV_NEW_640x640.png?raw=true" group-title="",Cinedigm | CONtv Channel
  https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8?webstream
@@ -21,99 +11,33 @@
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png" group-title="",Cinedigm | Docurama
  https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8?webstream
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="",Cinedigm | Dove Channel
- https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8
-
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="",Cinedigm | Lone Star
  https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?Cinedigm
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="",Cinedigm | My Time Movies
- https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="",Cinedigm | So... Real
- https://cinedigm-so-real-1.plex.wurl.com/manifest/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="",Cinedigm | Whistle TV
- https://whistle-1.plex.wurl.com/manifest/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="Cinemax " tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax
- http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="Cinemax [Indonesia]" tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax [Indonesia]
- http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="",Cinemax
- https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="",Cinevault 80s (Coming Soon)
- https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ujmPyit.jpg" group-title="",CineVault Westerns
- https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjE5OTZf/Cinevault-Westerns_v2_700x700.png" group-title="",Cinevault Westerns | HD
- https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
 
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="",CINEVISION CANAL 19 HD
  https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="",Circle | HD
- https://circle-roku.amagi.tv/playlist.m3u8?OTA
-
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjY2MjYwMTlf/Circle_332x332.png" group-title="Entertainment",Circle | HD
- https://circle-xumo.amagi.tv/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Citruss TV
- https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+https://circle-xumo.amagi.tv/playlist.m3u8
+https://circle-roku.amagi.tv/playlist.m3u8?OTA
 
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CITY TV
  https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png" group-title="",CityTV Toronto
- https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="",Civilized
  https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" group-title="",CJB청주방송(SBS 淸州)
- http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/A1xZDrV.png" group-title="Documentary",Clarity 4K
- https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
 
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Class CNBC
  https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
 
- #EXTINF:-1 tvg-id="ClassicArtsShowcase" tvg-name="Classic Arts Showcase" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2LJzdu6.png" group-title="",Classic Arts Showcase
- https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
-
  #EXTINF:-1 tvg-id="" tvg-name="Classic Movies Channel" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/pltVS6t.png" group-title="",Classic Movies Channel
  https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
- http://stmv2.srvstm.com/classique/classique/playlist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
- http://stmv3.srvstm.com/classique/classique/playlist.m3u8
 
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://cmmusica.com.ar/images/logo.png" group-title="",CM MUSICA
  http://g1.mc-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CMC TV
- http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CMC USA
  http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CMC_576x576.png?raw=true" group-title="",CMC | CMC Radio
- https://streamingv2.shoutcast.com/CMC
-
- #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC (1080p)
- https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
- https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
-
- #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="General",MBC 4 (1080p)
- https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
  #EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="General",MBC 5 (1080p)
  https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
@@ -127,24 +51,9 @@
  #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="General",MBC Persia (1080p)
  https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
- #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-country="FR" tvg-language="" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="serie",TF1 (720p)
- https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-
-
-
-
-
-
-
-
-
-
-
- #EXTINF:-1 tvg-id="ETNow.in" tvg-name="ET Now" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/rhkI95a.png" group-title="Business",ET Now
- http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-
- #EXTINF:-1 tvg-id="ETNow.in" tvg-name="ET Now" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",ET Now (576p)
+ #EXTINF:-1 tvg-id="ETNow.in" tvg-name="ET Now" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/rhkI95a.png" group-title="Business",ET Now (576p)
  https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
  #EXTINF:-1 tvg-id="FASTWAYNEWS.in" tvg-name="FASTWAY NEWS" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",FASTWAY NEWS (720p)
  http://163.47.214.155:1935/fwnews/live/playlist.m3u8
@@ -167,17 +76,11 @@
  #EXTINF:-1 tvg-id="IndiaTVNews.in" tvg-name="India TV News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",India TV News (480p)
  https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
 
- #EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Jan TV (360p)
- http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
-
  #EXTINF:-1 tvg-id="JantaTV.in" tvg-name="Janta TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Janta TV (1080p)
  https://live.wmncdn.net/jantatv/live.stream/index.m3u8
 
  #EXTINF:-1 tvg-id="JhanjarMusic.in" tvg-name="Jhanjar Music" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music
  http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-
- #EXTINF:-1 tvg-id="JonackTV.in" tvg-name="Jonack TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Jonack TV (360p)
- https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 
  #EXTINF:-1 tvg-id="LokSabhaTV.in" tvg-name="Lok Sabha TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Lok Sabha TV (576p)
  https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
@@ -227,15 +130,6 @@
  #EXTINF:-1 tvg-id="PunjabiZindabad.in" tvg-name="Punjabi Zindabad" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Punjabi Zindabad
  http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 
- #EXTINF:-1 tvg-id="RSTVRajyaSabha.in" tvg-name="RSTV RajyaSabha" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9NsI8zT.jpg" group-title="",RSTV RajyaSabha (1080p)
- https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-
- #EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sadhna (360p)
- http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-
- #EXTINF:-1 tvg-id="SadhnaPlus.in" tvg-name="Sadhna Plus" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sadhna Plus (360p)
- http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
-
  #EXTINF:-1 tvg-id="SanthoraTV.in" tvg-name="Santhora TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/LsacUVi.png" group-title="",Santhora TV (720p)
  http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 
@@ -248,11 +142,7 @@
  #EXTINF:-1 tvg-id="CanadaOne.ca" tvg-name="Canada One" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One (720p)
  http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
- #EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-name="Canada Star TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV (1080p)
- http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
- #EXTINF:-1 tvg-id="CanadianArabTV.ca" tvg-name="Canadian Arab TV" tvg-country="CA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
- http://142.112.39.133:8080/catv.mp4
 
  #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="",Canal Savoir
  https://hls.savoir.media/live/stream.m3u8
@@ -10573,6 +10463,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 
 Movie
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="",Cinedigm | My Time Movies
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="",Cinevault 80s (Coming Soon)
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzI4NjE5OTZf/Cinevault-Westerns_v2_700x700.png" group-title="",Cinevault Westerns | HD
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
@@ -10895,7 +10794,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c3
 #EXTINF:-1 tvg-id="GamingTV.us" tvg-name="Gaming TV" tvg-country="US" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="",Pluto TV Gaming TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTVAnime_302x302.png?raw=true" group-title="",Cinedigm | CONtv Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream
 
 
 
@@ -11238,6 +11138,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff4
 #EXTINF:-1  tvg-logo="https://png.pngtree.com/template/20191029/ourlarge/pngtree-hunting-badge--logo-11-image_320130.jpg",Hunt Channel
  https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
+ #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC (1080p)
+ https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
+
+ #EXTINF:-1 tvg-id="JonackTV.in" tvg-name="Jonack TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Jonack TV (360p)
+ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://thesavvyscreener.com/wp-content/uploads/2016/11/docurama.png",Docurama
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg",HGTV -rv
@@ -11327,3 +11240,57 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff4
 #EXTINF:-1 tvg-id="BritCom.in" tvg-name="BritCom" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="series",BritCom (720p)
 
 #EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG.png" group-title="",Pluto TV Degrassi
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="",Cinedigm | Bambu
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="",Cinedigm | Bob Ross
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ComedyDynamics_640x640.png?raw=true" group-title="",Cinedigm | Comedy Dynamics
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="",Cinedigm | Dove Channel
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="",Cinedigm | So... Real
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="",Cinedigm | Whistle TV
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax " tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax [Indonesia]" tvg-country="" tvg-language="" tvg-logo="" group-title="",Cinemax [Indonesia]
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="",Cinemax
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ujmPyit.jpg" group-title="",CineVault Westerns
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Citruss TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png" group-title="",CityTV Toronto
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" group-title="",CJB청주방송(SBS 淸州)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/A1xZDrV.png" group-title="Documentary",Clarity 4K
+
+#EXTINF:-1 tvg-id="ClassicArtsShowcase" tvg-name="Classic Arts Showcase" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2LJzdu6.png" group-title="",Classic Arts Showcase
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Classique TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CMC TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CMC_576x576.png?raw=true" group-title="",CMC | CMC Radio
+
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="General",MBC 4 (1080p)
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-country="FR" tvg-language="" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="serie",TF1 (720p)
+
+#EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Jan TV (360p)
+
+#EXTINF:-1 tvg-id="RSTVRajyaSabha.in" tvg-name="RSTV RajyaSabha" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9NsI8zT.jpg" group-title="",RSTV RajyaSabha (1080p)
+
+#EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sadhna (360p)
+
+#EXTINF:-1 tvg-id="SadhnaPlus.in" tvg-name="Sadhna Plus" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Sadhna Plus (360p)
+
+#EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-name="Canada Star TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV (1080p)
+
+#EXTINF:-1 tvg-id="CanadianArabTV.ca" tvg-name="Canadian Arab TV" tvg-country="CA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
