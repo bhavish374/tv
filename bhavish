@@ -7048,260 +7048,31 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playl
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="",Rouge TV (18+ overnight) [Sc.3]
 https://edge7.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="",Rouge TV (18+ overnight) [Sc.1]
 https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="",Rouge TV (18+ overnight) [Sc.2]
 https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.pinimg.com/736x/40/55/54/40555489faf07aabc2001322f637be0e.jpg" group-title="",Royal TV
-http://source2.primetime.ch:2981/play/royaltv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RPIN
-https://videony.rhsj520.com/20190907/RPIN-026/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT
-http://rt-news.secure.footprint.net:80/1103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT America
-https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Arabic (Russia Today)
-https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Arabic HD
-https://rt-arab-gd.secure2.footprint.net/1104_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Arabic HD (Backup)
-http://rt-arab.secure.footprint.net:80/1104_2500Kb.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.pl" tvg-name="RT Documentary" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png" group-title="",RT Documentary
-https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Documentary
-https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Documentary
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Documentary (English)
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT en Español
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Espanol
-http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT France
-http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT France
-https://rt-france.secure.footprint.net/1107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT HD
-http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT NEWS
-https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT News FR
-https://rt-france-gd.secure2.footprint.net/1107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT UK
-http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="",RT UK
-http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT UK
-https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT US
-http://rt-usa.secure.footprint.net:80/1105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT(俄罗斯)
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.rtb.bf/wp-content/uploads/2019/08/LOgo-RTB-272-90.png" group-title="",RTB
-https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTCG Montenegro
-http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTE News Now
-https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTE News Now
-https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="",RTHK (港台電視31)
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTHK (港台電視32)
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="",RTHK (港台電視32)
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="",RTHK TV 31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTHK TV 32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/fmzC0MN.png" group-title="",RTHK TV 32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="",RTHK31
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK32.png" group-title="",RTHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTK 2
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/chunklist_w4886007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTK 2
-http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTL
-https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTL (Opt-2)
-http://live-edge02.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTL (Opt-3)
-http://live-edge01.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/E4G6PiA.png" group-title="",RTL 102.5 BEST
-https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="",RTL 2 Tele Letzeburg
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTL Radio (Lux)
-http://live-edge04.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="",RTL Tele Letzeburg (Webradio)
-https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTL Télé Lëtzebuerg
-https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/i7245OO.png" group-title="",RTL West (18:00 - 18:30)
-https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTL Zwee
-https://live-edge.rtl.lu/channel1/smil:channel2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/9houwTS.png" group-title="",RTTR Trento
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV (AT)" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png" group-title="",RTV (AT)
-http://iptv.rtv-ooe.at/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/71/17115/1/c175.png" group-title="",RTV Amstelveen
 https://live.rtva.nl/live/zender.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="",RTV Arnhem
-http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="",RTV Dordrecht
-https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV GO!
-http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV NOF (WEB)
-http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV NOF TV
-http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV Oost
-https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/46ce631a-6155-4fcc-ac24-2b2e252f4f94/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Kinyarwanda" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="",RTV Rwanda
-https://1600706787.rsc.cdn77.org/1600706787/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV Slingeland
-http://ms2.mx-cd.net/tv/105-475831/RTV_Slingeland.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV Vida España
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTV Westerwolde
-http://59132e529e3d1.streamlock.net:1935/westerwolde/westerwolde/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTVE
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTVi 14
-http://rr2.1ott.net/~109f4bfdc9d6686f40d0f1d46bd8f01b00d/124
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTÉ News Irlanda EN
-https://live.rte.ie/live/a/channel3/news.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RU TV
-https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RU TV HD
-https://rut-v.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RU | Salyam
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RU | Мoscow 24
-https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.parsatv.com/index_files/channels/rutv.png" group-title="",RU.TV
-https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IQ" tvg-language="" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="",Rudaw TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RUMELİ TV
-https://59cba4d34b678.streamlock.net/canlitv/rumelitv/chunklist.m3u8
-#EXTINF:-1 tvg-id="d05fd3" tvg-name="Runtime_Español" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/0Wdnqym.png" group-title="",Runtime Español
-https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RunwayTV_960x960.png?raw=true" group-title="",Runway TV
-https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
-#EXTINF:-1 tvg-id="729a35" tvg-name="Rush_by_AMC" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/x64jw3W.png" group-title="",Rush by AMC
-https://amc-rushbyamc-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RUTV
-https://rutv.gcdn.co/streams/1410_95/1080n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AMzEPGl.jpg" group-title="",RWE Erfurt
-https://stream.keyweb.org:8085/hls/rwetv.m3u8
-#EXTINF:-1 tvg-id="bcc88e" tvg-name="Ryan_and_Friends" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uG675tT.png" group-title="",Ryan and Friends
-https://pocketwatch-ryanandfriends-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/knaxxhg7jtab.png" group-title="",Rádio MegaSom
-http://149.56.85.6:8341/play?1611806700516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RÚV Islandia
-https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RÚV Islandia
-https://ruvruverl-live-hls.secure.footprint.net/4cb25e14619fb1e9711a400b8a5b21119605cb9a-1/ruv/ruverl/index/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",R�V 1 Island
-https://ruvruverl-live-hls.secure.footprint.net/0e84e84137e292e51003f97b3681924e52bd3874-1548832268/ruv/ruverl/index/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SABAN TV
-http://145.239.37.125:20458/sabantv3/sabantv3/chunklist_w603026520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SABC 3
-http://154.72.21.249/hdmi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SADA TV
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",sahar
-http://cdnlive.irib.ir/live-channels/smil:sahar3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7ewYJ4Y.jpg" group-title="",Sal Televisión
-https://www.tdtchannels.com/stream/saltv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="",Salt + Light Television
 https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://thedronemedia.ug/wp-content/uploads/2017/07/salt.png" group-title="",Salt TV
-http://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="",Salto 4
-https://salto-streams.nl/hls/sotv2_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="",Salto ADE
-https://live.salto.nl/hls/at5_high.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="",Salto Brasa Music
 https://salto-streams.nl/hls/sotv1_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Sama Dubia
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8?v=2957056943
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-country="" tvg-language="" tvg-logo="https://i0.wp.com/telemascr.com/wp-content/uploads/2020/10/LOGO-WEB.png?fit=277%2C149&ssl=1" group-title="",SAN RAFAEL.TV HD LINE
-https://cp.sradiotv.com:1936/8064/8064/chunklist_w642039581.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Sanjha Punjab
-http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="",Santa and the Three Bears
-https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png" group-title="",SANTA CRUZTV
-https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Santa Mar√≠a TV
-http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santhora Short Film" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/0Pq7fdJ.jpg" group-title="",Santhora Short Film
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.sat7uk.org/wp-content/uploads/2016/04/SAT-7-TURKlogo-e1462364248492.jpg" group-title="",Sat 7 Türk
-https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Sat7 Pars
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Satran� TV
-http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="",Saveur
-https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="SonLife.uk" tvg-name="SBN" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png" group-title="",SBN
-https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/ch70/ch70.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="",SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="",SBS Plus International
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Cidade Verde - (PI)
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Serra Dourada - (GO)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT Tailândia (PA)
-https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/aUVVsSq.png" group-title="",SciFi
-https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af5a39cfef1f2542d365/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-country="" tvg-language="" tvg-logo="" group-title="",SCTV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="",SCTV(Indo)
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SEA TV
-http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="seenluft24" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png" group-title="",seenluft24
-https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/WD0JaKP.png" group-title="",Semerkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU" group-title="",Senal Colombia HD
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Senato
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Senato TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/u7wlwXg.png" group-title="",Senato TV
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Setanta Sports +
-http://195.158.29.129/live_360/live.stream+_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/vtI89AA.png" group-title="",Severka TV
-http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SEX
 http://9c67d51b.akadatel.com/iptv/NAQ9GGSU4ACX5N/6196/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="",Sexy Kpop TV
@@ -11036,6 +10807,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 
 Recheck
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SADA TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us" tvg-name="All Reality by WE tv" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="",Pluto TV All Reality by WE tv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -11181,7 +10955,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff4
 
 #EXTINF:-1 tvg-id="PlutoTVFemmesdeLoi.us" tvg-name="Pluto TV Femmes de Loi" tvg-country="CH;FR" tvg-language="French" tvg-logo="" group-title="",Pluto TV Femmes de Loi
 
-#EXTINF:-1 tvg-id="FemmesDeLoi.us" tvg-name="Femmes De Loi" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f8ed673cad35f0007651fd4/colorLogoPNG.png" group-title="",Pluto TV Femmes De Loi
 
 #EXTINF:-1 tvg-id="WhoseLineIsItAnywaySTIRR.us" tvg-name="Whose Line Is It Anyway (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="",Whose Line Is It Anyway (STIRR)
 
@@ -11294,3 +11067,49 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff4
 #EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-name="Canada Star TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV (1080p)
 
 #EXTINF:-1 tvg-id="CanadianArabTV.ca" tvg-name="Canadian Arab TV" tvg-country="CA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.pinimg.com/736x/40/55/54/40555489faf07aabc2001322f637be0e.jpg" group-title="",Royal TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RPIN
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT America
+
+#EXTINF:-1 tvg-id="RTDocumentary.pl" tvg-name="RT Documentary" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png" group-title="",RT Documentary
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Documentary
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Documentary
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT Documentary (English)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT France
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT France
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT NEWS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT News FR
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT UK
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="",RT UK
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT UK
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT UK
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RT US
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT(俄罗斯)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.rtb.bf/wp-content/uploads/2019/08/LOgo-RTB-272-90.png" group-title="",RTB
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTCG Montenegro
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTE News Now
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTE News Now
